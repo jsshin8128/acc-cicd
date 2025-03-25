@@ -6,7 +6,7 @@ on:
       - main
 
 env:
-  AWS_REGION: ap-northeast-2
+  AWS_REGION: us-west-2a
   ECR_REPOSITORY: acc-cicd
 
 jobs:
